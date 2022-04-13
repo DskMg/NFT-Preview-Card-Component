@@ -2,6 +2,7 @@
 
 # NFT-Preview-Card-Component
 HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -54,6 +55,7 @@ HTML
 </html>
 
 CSS
+
 *,
 *::before,
 *::after {
