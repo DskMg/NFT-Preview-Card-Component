@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/92790405/163167173-57a795b1-ec52-43d9-aa4d-3f5c7a6cdd6f.png)
+
 # NFT-Preview-Card-Component
 HTML
 <!DOCTYPE html>
